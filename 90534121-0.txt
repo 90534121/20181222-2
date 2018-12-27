@@ -1,0 +1,143 @@
+﻿<html><head>
+<br>
+
+<title> 台灣美食享宴 </title><br>
+
+</head>
+
+<body bgcolor="#BBFFEE" boad=""text="#000088">
+
+
+<center>
+<font size="5">
+
+<a href="2bb.html">北部美食</a> 
+<a href="3cc.html">中部美食</a> 
+<a href="4dd.html">南部美食</a> 
+<a href="5ee.html">心得</a><br><br>
+<hr size="4">
+
+<img src="image/aa1.jpg" size="600" width="400">
+
+<font size="5">
+<h1><b><font face="標楷體">台灣美食</font></b></h1>
+<font size="5">
+<h2><font face="微軟正黑體">台灣除了濃烈的人情味，更有許多令人讚嘆的美食。</font></h2>
+
+<hr size="5">
+<font face="標楷體">
+<b><pre><font size="5">
+CNN大推！來台灣必吃的40種超好吃美食、小吃~<br>
+台灣真的有超多好吃的美食，等你來品嘗！</b><br>
+<font face="標楷體"> 
+<b>
+1. 滷肉飯 Braised pork rice<br><img src="image/aa3.jpg" size="200" width="300">
+
+2. 牛肉麵 Beef noodles<br><img src="image/aa4.jpg" size="200" width="300">
+
+3. 蚵仔煎 Oyster omelet<br><img src="image/aa5.jpg" size="200" width="300">
+
+4. 珍珠奶茶 Bubble tea<br><img src="image/aa6.jpg" size="200" width="300">
+
+5. 虱目魚 Milkfish<br><img src="image/aa7.jpg" size="200" width="250">
+
+6. 擔仔麵 Slack Season danzai noodles<br><img src="image/aa8.jpg" size="200" width="300"> 
+
+7. 生煎包 Pan-fried buns<br><img src="image/aa9.jpg" size="200" width="300">
+
+8. 割包 Gua bao<br><img src="image/aa10.jpg" size="200" width="300">
+
+9. 鐵蛋Iron egg<br><img src="image/aa11.jpg" size="200" width="300">
+ 
+10. 鳳梨酥 Pineapple cake<br><img src="image/aa12.jpg" size="200" width="300"> 
+
+11.甜不辣  Tian bu la (Taiwanese oden)<br>
+
+12.肉圓 Ba wan (Giant meat dumplings)<br>
+
+13.炸雞 Fried chicken<br>
+
+14.蔥抓餅Flaky scallion pancakes<br>
+
+15.蚵仔麵線 Oyster vermicelli<br>
+
+16.臭豆腐 Stinky tofu<br>
+
+17.紅薯 Sweet potato<br> 
+
+18.剉冰 Shaved ice mountain<br>
+
+19.胡椒餅 Pepper cakes<br>
+
+20.鼎泰豐小籠包Dumplings at Din Tai Fung Dumpling House<br>
+
+21.魚丸湯 Fish ball soup<br>
+
+22.藥燉排骨 Ribs stewed in medicinal herbs<br> 
+
+23.鵝肉  Goose<br>
+
+24.鼎邊銼  Ding bian cuo<br> 
+
+25.麻糬 Mochi<br>
+
+26.加熱滷味 Anything braised with Lantern soy sauce<br> 
+
+27.筒仔米糕 Tube rice pudding<br>
+
+28.台式早餐（豆漿油條）Taiwanese breakfast<br> 
+
+29.豬血湯　Pig’s blood rice pudding<br>
+
+30.三杯雞　Three-cup chicken<br>
+
+31.粄條　Ban tiao noodles<br>
+
+32.洪瑞珍三明治　Horng Ryen Jen Sandwich<br>
+
+33.愛玉　Aiyu jelly<br>
+
+34.皮蛋豆腐　Pidan tofu<br>
+
+35.潤餅　Taiwan burrito<br>
+
+36.麻辣火鍋　Spicy hotpot<br>
+
+37.雞翅飯捲　Chicken wing rice roll<br>
+
+38.超大貢丸湯　Giant pork balls soup<br>
+
+39.吳寶春麵包　Wu Pao Chun Bakery Breads<br>
+
+40.便當　Biandang<br>
+
+<hr>
+
+以上小吃幾乎在夜市就可以吃到了哦<br>
+來台灣品嚐這些好吃小吃，真的是有夠幸福</b><br>
+</font></pre><font size="5">
+
+
+
+
+<div>
+<audio src="media/001.mp3" controls="" autoplay="">
+ 
+
+</audio></div>
+
+
+
+</font>
+
+
+
+
+</font></font></font></font></font></center><font size="6"><font size="4"><font size="4"><font face="細明體"><font size="5">
+
+
+
+
+
+
+</font></font></font></font></font></body></html>

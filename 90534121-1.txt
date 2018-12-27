@@ -1,0 +1,131 @@
+﻿<html><head>
+
+
+<title>北部美食</title>
+
+</head>
+
+
+<body bgcolor="#FFFACD" text="#8B4513">
+
+
+
+
+<font size="5">
+<center>
+<a href="index.html">＃台灣美食享宴</a>  <br>
+
+<a href="3cc.html">＃中部美食</a><br>
+  
+<a href="4dd.html">＃南部美食</a> <br>
+
+<a href="5ee.html">＃心得</a></center><br>
+
+
+
+<hr>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZgACZGqgCM?start=4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+</p><center>
+<font size="4">
+<h1><b>    2018台北米其林20家摘星名單  </b> </h1>
+
+
+<font size="4">
+<h2><font face="標楷體">✓米其林三星★★★（1家）： </font></h2><br>
+<h2><font face="標楷體">君品酒店 – 頤宮中餐廳Le Palais（廣東菜）
+ </font></h2><br>
+<h2><font face="標楷體">✓米其林二星★★（2家）： </font></h2><br>
+<h2><font face="標楷體">祥雲龍吟 Shoun RyuGin（日本料理）、<br>
+
+台北喜來登大飯店–請客樓The Guest House（川揚菜）
+ </font></h2><br>
+<h2><font face="標楷體">✓米其林一星★（17家）： </font></h2><br>
+<h2><font face="標楷體">大腕Da-Wan（日式燒肉）、教父牛排 Danny’s Steakhouse（牛排）、MUME（西式創意菜）、<br>
+
+金蓬萊遵古台菜餐廳Golden Formosa（台菜）、謙安和Ken Anho（日本料理）、吉兆割烹壽司Kitcho（日本料理）、<br>
+
+侯布雄法式餐廳L’ATELIER de Joël Robuchon（法式料理）、Longtail（法式料理）、RAW（西式創意菜）、<br>
+
+La Cocotte法式餐廳by Fabien Vergé（法式料理，已結束營業）、明福台菜海鮮（台菜）、態芮Tairroir（西式創意菜）、<br>
+
+鮨野村SUSHI NOMURA（日本料理）、鮨隆Sushi Ryu（日本料理）、台北喜來登大飯店–請客樓The Guest House（川揚菜）<br>
+
+大三元酒樓Three Coins（廣東菜）、台北亞都麗緻大飯店–天香樓（杭幫菜）、台北文華東方酒店–雅閣Ya Ge（廣東菜）<br>
+
+
+ </font></h2><br>
+<hr>
+<h1><b>   2018必比登推薦36家街邊美食小吃  </b> </h1>
+
+<font size="5">
+
+
+<h2><font face="標楷體">✓5家台式料理：茂園、美麗餐廳、My灶、我家小廚房、雙月食品</font></h2><br>
+
+
+<h2><font face="標楷體">✓8家牛肉麵：永康牛肉麵、牛店精燉牛肉麵、劉山東牛肉麵、林東芳牛肉麵、<br>
+廖家牛肉麵、老山東牛肉家常麵店、建宏牛肉麵、清真中國牛肉麵食館</font></h2><br>
+
+
+<h2><font face="標楷體">✓1家日式料理：濱松屋</font></h2><br>
+
+<h2><font face="標楷體">✓5家台式料理：茂園、美麗餐廳、My灶、我家小廚房、雙月食品</font></h2><br>
+
+<h2><font face="標楷體">✓2家滬菜：鼎泰豐（信義路）、好公道金雞園</font></h2><br>
+
+<h2><font face="標楷體">✓1家江浙菜：點水樓（松山）</font></h2><br>
+
+<h2><font face="標楷體">✓2家點心：阜杭豆漿、杭州小籠湯包（大安）</font></h2><br>
+
+<h2><font face="標楷體">✓1家印度菜：想想廚房 </font></h2><br>
+<h2><font face="標楷體">✓1家創新菜：一号糧倉</font></h2><br>
+<h2><font face="標楷體">✓1家素菜：祥和蔬食</font></h2><br>
+
+<font size="5">
+<font face="標楷體">
+<hr>
+<a href="index.html">台灣美食享宴</a>  
+<a href="3cc.html">中部美食</a>  
+<a href="4dd.html">南部美食</a>  
+<a href="5ee.html">心得</a>
+
+
+<div>
+<audio src="media/002.mp3" controls="" autoplay="">
+
+</audio></div>
+
+</font>
+
+
+</font></font></font></font></center><font size="4"><font size="5"><font size="5"><font face="細明體">
+
+
+
+
+</font></font></font></font></font>
+<pre><font size="5">
+
+
+</font></pre><font size="5">
+<div>
+
+ 
+
+</audio></div>
+
+
+
+</font>
+
+
+
+
+<font size="6"><font size="4"><font size="4"><font face="細明體"><font size="5">
+
+
+
+

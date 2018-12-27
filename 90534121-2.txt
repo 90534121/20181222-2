@@ -1,0 +1,53 @@
+﻿<html><head>
+
+
+<title>中部美食</title>
+
+</head>
+
+
+<body background="photo.jpg">
+
+<p align="right">
+<body bgcolor="#F0FFF0" text="#2F4F4F">
+<font size="6">
+<a href="index.html">美食享宴</a>  <br>
+<a href="2bb.html">北部美食</a>  <br>
+<a href="4dd.html">南部美食</a>  <br>
+<a href="5ee.html">心得</a>  <br>
+
+<hr>
+<center><img src="image/cc1.jpg" size="300" width="500"></center>
+</font></p><center><font size="6">
+<font size="4">
+<h1><b>中部美食<h1></b></h2><br>
+<h2><b>想認識一個城市，就從市場美食開始吧！！
+
+凍滋?～凍滋?～最正港台灣味❤ <br>
+帶大家來最熟悉的『菜市場 、 夜市、台式小吃』</b></h2><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oJ6BeUstUxg?start=29" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<font size="5"><br>
+<font face="標楷體">
+
+中部美食大公開！<br>
+絕對讓你味蕾爆炸，不知道就落伍啦！<br>
+
+<hr>
+
+</font><pre><font size="6"><font size="4"><font size="5"><font face="標楷體"><font size="5">
+臺灣中部除了是南北流通必經之路外，也因為地處中心，
+因此吸收了全臺各地的文化薰陶融合之後產生了自己的獨特氛圍與氣質，
+不過中部地區讓人印象深刻的，當然還是他多元豐富又各個獨具特色的美食啦！
+這次本編特別挖掘的連台中人都不一定知道的隱藏版美食要分享給大家，你還在等什麼呢？
+還在準備紙筆要抄下來嗎？直接截圖傳給好友群立刻出發搜尋美食吧！<br>
+
+<audio src="media/003.mp3" controls="" autoplay="">
+
+<a href="https://www.youtubeto.com?task=MP3&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D5rXENgLSwRk%26t%3D28s">Download MP3 - 輕音樂-Spring</a>
+
+<div>
+
+</div>
+
+
+
